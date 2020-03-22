@@ -9,10 +9,7 @@
 ### 3. RandomForestClassifier
 #### Implement random forest classifier using decision trees
 
-### 4. Yelp Restaurant Data Visualization
-#### Visualize retaurant data availavle from yelp and carry out sentiment analysis using Machine Learning
-
-### 5. SupervisedLearning
+### 4. SupervisedLearning
 ##### Analyzed various supervised learning algorithms
 - Decision trees (with some form of pruning) 
 - Neural Network (Multi-layer Perceptron (MLP)) 
@@ -20,14 +17,14 @@
 - Support Vector Machines (SVC)
 - k-nearest neighbors (KNN)
 
-### 6. RandomizedOptimization
+### 5. RandomizedOptimization
 ##### Explore random search algorithms on various maximization problems
 - Randomized Hill Climbing
 - Simulated Annealing
 - Genetic Algorithm
 - MIMIC (Mutual Information Maximizing Input Clustering)
 
-### 7. UnsupervisedLearning
+### 6. UnsupervisedLearning
 ##### Explored various clustering and dimensionality reduction algorithms
 - KMeans Clustering Algorithm (KM)
 - Expectation Maximization (EM) with Gaussian Mixture Model
@@ -36,7 +33,7 @@
 - Random Projection Analysis (RPA) with Sparse Random Projection • Linear Discrimination Analysis (LDA)
 - Neural Network (Multi-layer Perceptron (MLP))
 
-### 8. MarkovDecisionProcess
+### 7. MarkovDecisionProcess
 ##### Explore two different Markov Decision Processes (MDP) and solve them using three different reinforcement learning algorithms.
 - Value Iteration
 - Policy Iteration
