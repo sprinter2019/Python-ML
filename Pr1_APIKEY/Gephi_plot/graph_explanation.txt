@@ -1,0 +1,2 @@
+Step1: Applied Force Atlas, Fruchterman Reingold, and Force Atlas layouts Step2: Applied Giant Component filter with degree range sub filter (removed nodes with degree=1)Step3: Divided the network in groups based on modularity (resolution=2)Step4: Adjusted node/cluster properties to convey information
+Step5: Applied Nooverlap and Label Adjustment layouts
