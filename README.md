@@ -10,7 +10,7 @@
 #### Implement random forest classifier using decision trees
 
 ### 4. SupervisedLearning
-##### Analyzed various supervised learning algorithms
+##### Analyze various supervised learning algorithms
 - Decision trees (with some form of pruning) 
 - Neural Network (Multi-layer Perceptron (MLP)) 
 - Boosting (AdaBoost)
@@ -25,7 +25,7 @@
 - MIMIC (Mutual Information Maximizing Input Clustering)
 
 ### 6. UnsupervisedLearning
-##### Explored various clustering and dimensionality reduction algorithms
+##### Explore various clustering and dimensionality reduction algorithms
 - KMeans Clustering Algorithm (KM)
 - Expectation Maximization (EM) with Gaussian Mixture Model
 - Principal Component Analysis (PCA)
