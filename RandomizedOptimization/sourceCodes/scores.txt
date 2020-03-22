@@ -1,0 +1,31 @@
+Starting Neural Network Analysis With Back-Propagation.......Done
+trainAccuracy: [62.52781486426346]
+CVAccuracy: 63.791229946524055
+testAccuracy: [62.590120160213615]
+Fit Time: 3.617412805557251
+Simulating Genetic Algorithm.......Done
+Simulating Random Hill Climbing Algorithm.......Done
+Simulating Simulated Annealing Algorithm.......Done
+SA_maxTrainAccuracy:  55.647530040053404
+SA_maxTestAccuracy:  54.44592790387183
+RHC_maxTrainAccuracy:  55.4250111259457
+RHC_maxTestAccuracy:  54.23230974632843
+GA_maxTrainAccuracy:  57.81931464174455
+GA_maxTestAccuracy:  56.84913217623498
+
+
+Learning rate:
+Starting Neural Network Analysis With Back-Propagation.......Done
+trainAccuracy: [62.52781486426346]
+CVAccuracy: 63.791229946524055
+testAccuracy: [62.590120160213615]
+Fit Time: 2.5175931453704834
+Simulating Genetic Algorithm.......Done
+Simulating Random Hill Climbing Algorithm.......Done
+Simulating Simulated Annealing Algorithm.......Done
+SA_maxTrainAccuracy:  58.89630618602582
+SA_maxTestAccuracy:  58.2109479305741
+RHC_maxTrainAccuracy:  55.4250111259457
+RHC_maxTestAccuracy:  54.23230974632843
+GA_maxTrainAccuracy:  57.81931464174455
+GA_maxTestAccuracy:  56.84913217623498
