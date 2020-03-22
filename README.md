@@ -18,7 +18,7 @@
 - k-nearest neighbors (KNN)
 
 ### 5. RandomizedOptimization
-##### explore random search algorithms on various maximization problems
+##### Explore random search algorithms on various maximization problems
 - Randomized Hill Climbing
 - Simulated Annealing
 - Genetic Algorithm
@@ -37,4 +37,4 @@
 ##### Explore two different Markov Decision Processes (MDP) and solve them using three different reinforcement learning algorithms.
 - Value Iteration
 - Policy Iteration
-- Q-Learning ($\epsilon$-greedy)
+- Q-Learning (epsilon-greedy)
