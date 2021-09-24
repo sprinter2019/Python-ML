@@ -1,6 +1,6 @@
 # Python Projects
 
-### 1. Stock Market Strategy learner
+### 1. Stock Market Strategy Learner
 ##### Develop an ML based stock market strategy learner to defeat a benchmark
 - use three different stock market indicators
 - Develop a manual startegy that perfroms better than the benchmrk
