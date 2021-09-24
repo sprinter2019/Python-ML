@@ -2,7 +2,7 @@
 
 ### 1. Strategy learner
 ##### Develop an ML based stock market strategy learner to defeat a benchmark
-- use three different stock market indicator
+- use three different stock market indicators
 - Develop a manual startegy that perfroms better than the benchmrk
 - Develop a strategy learner that can learn a trading policy using a tree based bag-learner and the selcted stock market indicators to beat a benchmark strategy
 - Asses perfromance against the benchmark and the developed manual startegy
