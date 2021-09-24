@@ -10,13 +10,13 @@
 ### 2. APIKEY
 ##### Use API key to download and visualize movie data using python and Gephi
 
-### 3. ScalablePageRank
+### 3. Scalable Page Rank
 ##### Implement Page Rank Algorithm
 
-### 4. RandomForestClassifier
+### 4. Random Forest Classifier
 #### Implement random forest classifier using decision trees
 
-### 5. SupervisedLearning
+### 5. Supervised Learning
 ##### Analyze various supervised learning algorithms
 - Decision trees (with some form of pruning) 
 - Neural Network (Multi-layer Perceptron (MLP)) 
@@ -24,14 +24,14 @@
 - Support Vector Machines (SVC)
 - k-nearest neighbors (KNN)
 
-### 6. RandomizedOptimization
+### 6. Randomized Optimization
 ##### Explore random search algorithms on various maximization problems
 - Randomized Hill Climbing
 - Simulated Annealing
 - Genetic Algorithm
 - MIMIC (Mutual Information Maximizing Input Clustering)
 
-### 7. UnsupervisedLearning
+### 7. Unsupervised Learning
 ##### Explore various clustering and dimensionality reduction algorithms
 - KMeans Clustering Algorithm (KM)
 - Expectation Maximization (EM) with Gaussian Mixture Model
@@ -40,7 +40,7 @@
 - Random Projection Analysis (RPA) with Sparse Random Projection • Linear Discrimination Analysis (LDA)
 - Neural Network (Multi-layer Perceptron (MLP))
 
-### 8. MarkovDecisionProcess
+### 8. Markov Decision Process
 ##### Explore two different Markov Decision Processes (MDP) and solve them using three different reinforcement learning algorithms.
 - Value Iteration
 - Policy Iteration
